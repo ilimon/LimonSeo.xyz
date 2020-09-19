@@ -1,0 +1,13 @@
+{
+  "name": "LimonSeo - Xml combined with css and js ",
+  "short_name": "LimonSeo",
+  "lang": "en-GB",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f7f9f8",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/ilimon/LimonSeo.xyz@master/images/android-chrome-192x192.png"
+    }
+  ]
+}
